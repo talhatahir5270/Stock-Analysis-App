@@ -25,8 +25,10 @@ git clone https://github.com/yourusername/stock-analysis-app.git
 cd stock-analysis-app
 
 2. **Install Dependencies**
+   
 pip install -r requirements.txt
 
-3. **Run App**
-   streamlit run stock_app.py
+4. **Run App**
+   
+streamlit run stock_app.py
 

@@ -2,7 +2,7 @@
 
 A simple and interactive web app built with Streamlit that lets users explore historical stock market data using Yahoo Finance. Ideal for beginners and traders to visualize stock trends, analyze price movement, and explore trading volume.
 
-🔗 **Live App**: [https://stock-analysis-app-j4vzbp65y9v875zayaf9el.streamlit.app/](https://stock-analysis-app-j4vzbp65y9v875zayaf9el.streamlit.app/)
+🔗 **Live App**: [https://stock-analysis-app-by-talha.streamlit.app/](https://stock-analysis-app-by-talha.streamlit.app/)
 
 ---
 
